@@ -10,5 +10,5 @@ Feel free to explore, learn, and contribute!
 ![small-dancing-white-cat-dance-funny](https://github.com/user-attachments/assets/b9a6d78e-672c-4b11-8e1f-8146f2906e46)
 
 1. Merge Sorted Array ✅ [25.10.2024]
-2. Remove Element ☐ [26.10.2024]
+2. Remove Element ✅ [26.10.2024]
 3. Remove Duplicates from Sorted Array ☐ [26.10.2024]
