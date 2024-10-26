@@ -11,4 +11,4 @@ Feel free to explore, learn, and contribute!
 
 1. Merge Sorted Array ✅ [25.10.2024]
 2. Remove Element ✅ [26.10.2024]
-3. Remove Duplicates from Sorted Array ☐ [26.10.2024]
+3. Remove Duplicates from Sorted Array ☐ [27.10.2024]
